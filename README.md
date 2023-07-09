@@ -1,5 +1,5 @@
 # MacroKeyboard
-This is a small macro keyboard made with Arduino and including a few different 3d printable case options, the motherboard fits into either case and secures with 4 x M1.4 5-millimeter screws.
+This is a small macro keyboard made with Arduino and including a few different 3d printable case options, the logic board fits into either case and secures with 4 x M1.4 5-millimeter screws.
 
 Logic board was created with KiCAD. 
 
