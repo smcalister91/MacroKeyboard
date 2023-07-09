@@ -10,7 +10,6 @@
 #define PIN7 10
 
 void setup() {
-Serial.begin(56000);
 pinMode(PIN0, INPUT); 
 pinMode(PIN1, INPUT); 
 pinMode(PIN2, INPUT); 
