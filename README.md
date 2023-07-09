@@ -20,6 +20,9 @@ The logic board must be installed into the case before the switches are soldered
 8x 10k through-hole resistor
 
 
-![image](https://github.com/smcalister91/MacroKeyboard/assets/14841708/60c10a3f-d40b-4b83-b0d5-5ec50406f232)![image](https://github.com/smcalister91/MacroKeyboard/assets/14841708/b1b408f6-1718-4bf8-a577-26968006b395)
+![image](https://github.com/smcalister91/MacroKeyboard/assets/14841708/5cf06b7e-1db3-4e60-8506-0d6f6609bea2)
+![image](https://github.com/smcalister91/MacroKeyboard/assets/14841708/c2861215-7654-4fdc-a27a-e546352b201e)
+
+
 
 ![image](https://github.com/smcalister91/MacroKeyboard/assets/14841708/2e318b4c-63bf-472e-8a79-c72ba7995eb0)
