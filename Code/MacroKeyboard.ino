@@ -24,29 +24,29 @@ pinMode(PIN7, INPUT);
 
 void loop() {
   if (digitalRead(PIN0) == LOW) {
-    Keyboard.write(KEY_F9); 
+    Keyboard.write(KEY_F5); 
   }
   if (digitalRead(PIN1) == LOW) {
-    Keyboard.write(KEY_F9);
+    Keyboard.write(KEY_F6);
   } 
   if (digitalRead(PIN2) == LOW) {
-    Keyboard.write(KEY_F9); 
+    Keyboard.write(KEY_F7); 
   } 
   if (digitalRead(PIN3) == LOW) {
-    Keyboard.write(KEY_F9);
+    Keyboard.write(KEY_F8);
   }
   if (digitalRead(PIN4) == LOW) {
     Keyboard.write(KEY_F9);
   }
   if (digitalRead(PIN5) == LOW) {
-    Keyboard.write(KEY_F9);
+    Keyboard.write(KEY_F10);
   }
   if (digitalRead(PIN6) == LOW) {
-    Keyboard.write(KEY_F9);
+    Keyboard.write(KEY_F11);
     } 
   }
   if (digitalRead(PIN7) == LOW) {
-    Keyboard.write(KEY_F9);
+    Keyboard.write(KEY_F12);
   }
 
 }
