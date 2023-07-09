@@ -1,5 +1,7 @@
 # MacroKeyboard
-This is a small macro keyboard made with Arduino and including a few different 3d printable case options, the motherboard fits into either case and secures with 4 x M1.4 5-millimeter screws
+This is a small macro keyboard made with Arduino and including a few different 3d printable case options, the motherboard fits into either case and secures with 4 x M1.4 5-millimeter screws.
+
+Logic board was created with KiCAD. 
 
 The cases are angled at 7.5 degrees to match the standard angle of a mechanical keyboard. The Horizontal variant is meant to be placed behind the keyboard, behind the F keys. The Vertical variant is designed to be placed to the right OR left of the keyboard.
 
