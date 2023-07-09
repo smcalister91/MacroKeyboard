@@ -17,7 +17,7 @@ The logic board must be installed into the case before the switches are soldered
 
 8x Cherry MX-compatible keycaps
 
-8x 10k through-hole resistor
+8x 10k ohm through-hole resistor
 
 **Horizontal Case:**
 
