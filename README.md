@@ -26,7 +26,8 @@ The logic board must be installed into the case before the switches are soldered
 
 **Vertical Case:**
 
-![image](https://github.com/smcalister91/MacroKeyboard/assets/14841708/fcd9ed22-3489-4c28-abcb-e0832068de25)
+![image](https://github.com/smcalister91/MacroKeyboard/assets/14841708/4f12f395-b240-42b3-894a-84f737e5b995)
+
 
 
 
