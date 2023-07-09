@@ -15,8 +15,8 @@ The cases are angled at 7.5 degrees to match the standard angle of a mechanical 
 
 8x 10k through-hole resistor
 
-![PCB](https://github.com/smcalister91/MacroKeyboard/assets/14841708/4796e2d9-099f-41a6-a3f5-4bc2e4617695)
 
+![image](https://github.com/smcalister91/MacroKeyboard/assets/14841708/78a488d4-22cb-4074-9207-66d47483fbd4)
 
 ![image](https://github.com/smcalister91/MacroKeyboard/assets/14841708/60c10a3f-d40b-4b83-b0d5-5ec50406f232)
 
