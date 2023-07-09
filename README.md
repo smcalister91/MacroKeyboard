@@ -3,7 +3,7 @@ This is a small macro keyboard made with Arduino and including a few different 3
 
 Logic board was created with KiCAD. 
 
-The cases are angled at 7.5 degrees to match the standard angle of a mechanical keyboard. The Horizontal variant is meant to be placed behind the keyboard, behind the F keys. The Vertical variant is designed to be placed to the right OR left of the keyboard.
+The cases are angled at 7.5 degrees to match the standard angle of a keyboard. The Horizontal variant is designed to be placed behind the keyboard, behind the F keys. The Vertical variant is designed to be placed to the right or left of the keyboard.
 
 The logic board must be installed into the case before the switches are soldered in.
 
