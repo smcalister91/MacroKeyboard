@@ -48,3 +48,8 @@ Designed to be placed to the right or left of the keyboard
 **Logic Board:**
 
 ![image](https://github.com/smcalister91/MacroKeyboard/assets/14841708/2e318b4c-63bf-472e-8a79-c72ba7995eb0)
+
+
+**Acknowledgements** 
+
+Uses Nicohood's HID-project
