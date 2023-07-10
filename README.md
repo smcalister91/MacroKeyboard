@@ -8,7 +8,9 @@ The cases are angled at 7.5 degrees to match the standard angle of a keyboard. T
 The logic board must be installed into the case before the switches are soldered in.
 
 **Component List:**
-
+<Table>
+  <tr><td>  1  </td><td>  Arduino Pro Micro  </td></tr>
+  
 1x Arduino Pro Micro 
 
 4 x M1.4 5-millimeter screws
@@ -18,7 +20,7 @@ The logic board must be installed into the case before the switches are soldered
 8x Cherry MX-compatible keycaps
 
 8x 10k ohm through-hole resistor
-
+</Table>
 **Folder Structure:**
 
 Case3DModels: Includes the STL files required to 3D print the two case options.
