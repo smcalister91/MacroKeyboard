@@ -19,10 +19,14 @@ The logic board must be installed into the case before the switches are soldered
 
 8x 10k ohm through-hole resistor
 
-**Folder Structure:** 
+**Folder Structure:**
+
 Case3DModels: Includes the STL files required to 3D print the two case options.
+
 Code: Includes the Arduino code required to flash the firmware.
+
 KicadProjectFiles: All files required by KiCAD to open the logic board files. Can be used to generate gerbers for sending to fab house.
+
 Pics: A few pictures of the project and included assets.
 
 **Horizontal Case:**
