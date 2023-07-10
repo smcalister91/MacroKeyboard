@@ -28,14 +28,14 @@ KicadProjectFiles: All files required by KiCAD to open the logic board files. Ca
 
 Pics: A few pictures of the project and included assets.
 
-**Horizontal Case:**
+<h2>Horizontal Case:</h2>
 
 Designed to be placed behind the keyboard
 
 ![image](https://github.com/smcalister91/MacroKeyboard/assets/14841708/b55b2268-7a69-4a20-adc3-b0fd5c6bbebf)
 
 
-**Vertical Case:**
+<h2>Vertical Case:</h2>
 
 Designed to be placed to the right or left of the keyboard
 
@@ -45,11 +45,11 @@ Designed to be placed to the right or left of the keyboard
 
 
 
-**Logic Board:**
+<h2>Logic Board:</h2>
 
 ![image](https://github.com/smcalister91/MacroKeyboard/assets/14841708/2e318b4c-63bf-472e-8a79-c72ba7995eb0)
 
 
-**Acknowledgements** 
+<h2>Acknowledgements</h2>
 
 Uses Nicohood's HID-project
