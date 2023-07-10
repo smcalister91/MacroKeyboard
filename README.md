@@ -9,7 +9,12 @@ The logic board must be installed into the case before the switches are soldered
 
 **Component List:**
 <Table>
+  <tr><td>  QTY  </td><td> ITEM  </td></tr>
   <tr><td>  1  </td><td>  Arduino Pro Micro  </td></tr>
+  <tr><td>  4  </td><td>  M1.4 5-millimeter screws  </td></tr>
+  <tr><td>  8  </td><td>  Cherry MX-compatible keyswitches  </td></tr>
+  <tr><td>  8  </td><td>  Cherry MX-compatible keycaps  </td></tr>
+  <tr><td>  8  </td><td>  10k ohm through-hole resistor  </td></tr>
   
 1x Arduino Pro Micro 
 
