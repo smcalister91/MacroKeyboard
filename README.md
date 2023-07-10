@@ -16,16 +16,8 @@ The logic board must be installed into the case before the switches are soldered
   <tr><td>  8  </td><td>  Cherry MX-compatible keycaps  </td></tr>
   <tr><td>  8  </td><td>  10k ohm through-hole resistor  </td></tr>
   
-1x Arduino Pro Micro 
-
-4 x M1.4 5-millimeter screws
-
-8x Cherry MX-compatible keyswitches
-
-8x Cherry MX-compatible keycaps
-
-8x 10k ohm through-hole resistor
 </Table>
+
 **Folder Structure:**
 
 Case3DModels: Includes the STL files required to 3D print the two case options.
