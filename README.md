@@ -7,7 +7,7 @@ The cases are angled at 7.5 degrees to match the standard angle of a keyboard.
 
 The logic board must be installed into the case before the switches are soldered in.
 
-**Component List:**
+<h2>Component List:</h2>
 <Table>
   <tr><td>  QTY  </td><td> ITEM  </td></tr>
   <tr><td>  1  </td><td>  Arduino Pro Micro  </td></tr>
@@ -18,7 +18,7 @@ The logic board must be installed into the case before the switches are soldered
   
 </Table>
 
-**Folder Structure:**
+<h2>Folder Structure:</h2>
 
 Case3DModels: Includes the STL files required to 3D print the two case options.
 
