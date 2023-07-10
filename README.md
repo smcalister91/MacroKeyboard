@@ -20,13 +20,13 @@ The logic board must be installed into the case before the switches are soldered
 
 <h2>Folder Structure:</h2>
 
-Case3DModels: Includes the STL files required to 3D print the two case options.
+**Case3DModels:** Includes the STL files required to 3D print the two case options.
 
-Code: Includes the Arduino code required to flash the firmware.
+**Code:** Includes the Arduino code required to flash the firmware.
 
-KicadProjectFiles: All files required by KiCAD to open the logic board files. Can be used to generate gerbers for sending to fab house.
+**KicadProjectFiles:** All files required by KiCAD to open the logic board files. Can be used to generate gerbers for sending to fab house.
 
-Pics: A few pictures of the project and included assets.
+**Pics:** A few pictures of the project and included assets.
 
 <h2>Horizontal Case:</h2>
 
